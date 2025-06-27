@@ -41,14 +41,13 @@ I spent hours trying to figure it out and then ask somebody else to try the same
 
 ---
 
-- Having the csv.
 
 ## New skills, approaches, etc you used, or where you grew the most during the project
 
 ## Things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
 
-## How to run
+- After importing the data I faced a strange problem - my project folder seemed to have an issue. The path from Github Desktop opened a different folder than the one I created originally. Which is strange, because the path was the same and it was supposily saved in the same folder and named the same. But the data didn't appear by opening it without Github Desktop. (It did with Jupyter Notebook, there I didn't have the problem. Not sure and difficult to explain. From that onwards I only opened the folder via Github Desktop. That helped. If I had more time I would have tried to understand the issue.
 
-Open `XXXX.ipynb` in Jupyter Notebook or JupyterLab and run all cells. Requires:
-```bash
-pip install pandas matplotlib
+- If I would have more time, I would have tried to compare my data this other data set I found. https://academic.oup.com/isq/article/69/2/sqaf013/8081642
+
+- My html had a lot of white space, something to do with my first graph. But I couldn't fix it.
